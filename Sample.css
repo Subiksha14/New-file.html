@@ -1,0 +1,42 @@
+*{
+    background-color: crimson;
+}
+h1{
+    font-style: italic;
+    color:aqua;
+}
+h4{
+    font-style: oblique;
+    color:darkblue;
+}
+h2{
+    font-style: italic;
+    color:lime;
+}
+li{
+    font-style: inherit;
+    color:cyan;
+}
+table{
+    font-style: oblique;
+    color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
